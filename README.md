@@ -1,1 +1,1 @@
-# Classical-Classification-Methods-KNN-SVM-DecisionTree-RandomForest-GradientTreeBoosting
+# Classical-Classification-Methods (KNN-SVM-DecisionTree-RandomForest-GradientTreeBoosting)
